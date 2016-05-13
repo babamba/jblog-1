@@ -20,7 +20,7 @@
 		</ul>
 		<form class="join-form" id="join-form" method="post" action="">
 			<label class="block-label" for="name">이름</label>
-			<input id="name"name="name" type="text" value="">
+			<input id="name"name="name" type="text" value=""/>
 			
 			<label class="block-label" for="blog-id">아이디</label>
 			<input id="blog-id" name="id" type="text"> 
